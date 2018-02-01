@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BAC Calculator</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="units">
+        <item>cl</item>
+        <item>dl</item>
+        <item>oz</item>
+        <item>glass</item>
+    </string-array>
+    
+    <string-array name="abv">
+        <item>Wine (2.5%)</item>
+        <item>Vodka (37.5%)</item>
+        <item>Beer (5%)</item>
+        <item>Other value</item>
+    </string-array>
+
+</resources>
